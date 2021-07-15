@@ -23,3 +23,9 @@ terraform apply
 ```bash
 terraform destroy
 ```
+
+- To enable verbose mode:
+
+```bash
+export TF_LOG=TRACE
+```
